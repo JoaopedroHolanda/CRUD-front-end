@@ -1,0 +1,9 @@
+#lista_func{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    width: 300px;
+}
